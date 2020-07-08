@@ -13,5 +13,5 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-src-git kenzo https://github.com/V2RaySSR/openwrt-packages
-src-git small https://github.com/V2RaySSR/small
+sed -i '$a src-git kenzo https://github.com/V2RaySSR/openwrt-packages
+sed -i '$a src-git small https://github.com/V2RaySSR/small
