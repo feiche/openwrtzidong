@@ -23,7 +23,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: git clone https://github.com/feiche/lede4.19
+  REPO_URL: git clone https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
